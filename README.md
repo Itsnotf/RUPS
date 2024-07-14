@@ -4,14 +4,8 @@ Starter Kit Template Laravel + Stisla Dashboard
 
 ## Authors
 
--   [@amalkoding](https://www.github.com/amalkoding)
+-   [@faizaflah](https://github.com/Itsnotf)
 
-## Features
-
--   Multi Auth
--   Role Permission
--   Easy Crud
--   Easy Change Style (Color, Etc.)
 
 ## Installation
 
