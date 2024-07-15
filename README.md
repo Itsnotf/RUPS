@@ -73,6 +73,6 @@ Insert gif or link to demo
 
 ## Badges
 
-License M. Amal Ikhsani
+License Faiz aflah hafizuddin
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/amalkoding/laravel_fortify_stisla)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Itsnotf/RUPS)
